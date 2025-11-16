@@ -98,6 +98,48 @@ Upload your data, have a conversation with your AI analyst, and receive professi
 - **Analysis Ideas**: Get suggestions for further exploration
 - **Report Enhancement**: AI-powered insights and recommendations
 
+## 🔧 Technical Architecture & Capabilities
+
+### Platform Foundation
+
+- **Streamlit-Based Web Application** - Accessible via browser, no installation
+
+- **Modular Component Design** - Scalable, maintainable architecture
+
+- **Session State Management** - Seamless multi-step workflow persistence
+
+## Core Analysis Modules
+
+**Data Overview & Quality Assessment** - Instant dataset understanding
+
+**Automated Data Cleaning** - Handle missing values, outliers, formatting
+
+**Exploratory Data Analysis (EDA)** - Comprehensive pattern discovery
+
+**Statistical Analysis** - Hypothesis testing, correlation, significance
+
+**Business Intelligence** - KPI tracking, performance insights
+
+**Multi-Dataset Analysis** - Cross-source relationship mapping
+
+**AI Assistant** - Natural language queries and code generation
+
+**Professional Reporting** - Automated document generation
+
+## Intelligent Processing Engine
+
+**Automated Data Pipeline**
+
+**Traditional vs GenAI Approach**
+
+**BEFORE**: Raw Data → Manual Cleaning → Coding → Analysis → Reporting
+
+        (Days/Weeks)   (Hours)      (Hours)   (Hours)   (Hours)
+
+**AFTER**:  Raw Data → AI Cleaning → AI Analysis → AI Insights → Auto-Reports
+
+        (Minutes)    (Seconds)    (Seconds)    (Seconds)   (Seconds)
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -110,6 +152,7 @@ Upload your data, have a conversation with your AI analyst, and receive professi
 ```bash
 git clone <repository-url>
 cd genai-data-analyst
+
 
 
 
