@@ -110,21 +110,49 @@ Upload your data, have a conversation with your AI analyst, and receive professi
 
 ## Core Analysis Modules
 
-**Data Overview & Quality Assessment** - Instant dataset understanding
+### Data Overview & Quality Assessment- Instant dataset understanding
 
-**Automated Data Cleaning** - Handle missing values, outliers, formatting
+- **[Data Overview Preview 1](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Data%20Overview%20Preview%201.png)**
 
-**Exploratory Data Analysis (EDA)** - Comprehensive pattern discovery
+- **[Data Overview Preview 2](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Data%20Overview%20Preview%202.png)**
 
-**Statistical Analysis** - Hypothesis testing, correlation, significance
+- **[Data Overview Preview 3](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Data%20Overview%20Preview%203.png)**
 
-**Business Intelligence** - KPI tracking, performance insights
+### Automated Data Cleaning - Handle missing values, outliers, formatting
 
-**Multi-Dataset Analysis** - Cross-source relationship mapping
+- **[Data Cleaning Preview 1](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Data%20Cleaning%20Preview%201.png)**
 
-**AI Assistant** - Natural language queries and code generation
+- **[Data Cleaning Preview 2](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Data%20Cleaning%20Preview%202.png)**
 
-**Professional Reporting** - Automated document generation
+### Exploratory Data Analysis (EDA) - Comprehensive pattern discovery
+
+- **[EDA Preview](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/EDA%20Preview%201.png)**
+
+### Statistical Analysis - Hypothesis testing, correlation, significance
+
+- **[Statistical Analysis Preview](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/statistical%20preview%20.png)**
+
+### Business Intelligence - KPI tracking, performance insights
+
+- **[Business Insight Preview](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Business%20Insight%20Preview%20.png)**
+
+### Multi-Dataset Analysis - Cross-source relationship mapping
+
+- **[Multi Files Preview 1](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Multi%20Files%20Preview%201.png)**
+
+- **[Multi Files Preview 2](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Multi%20Files%20Preview%202.png)**
+
+- **[Multi Files Preview 3](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Multi%20Files%20Preview%203.png)**
+
+- **[Multi Files Preview 4](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Multi%20Files%20Preview%204.png)**
+
+### AI Assistant - Natural language queries and code generation
+
+- **[AI Assistant Preview](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/AI%20Assistant%20Preview.png)**
+  
+### Professional Reporting - Automated document generation
+
+- **[Report Generator Preview](https://github.com/Hassan0397/GenAI-Data-Analyst-Platform/blob/main/Report%20generator%20preview.png)**
 
 ## Intelligent Processing Engine
 
@@ -152,6 +180,7 @@ Upload your data, have a conversation with your AI analyst, and receive professi
 ```bash
 git clone <repository-url>
 cd genai-data-analyst
+
 
 
 
