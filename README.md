@@ -168,6 +168,11 @@ Upload your data, have a conversation with your AI analyst, and receive professi
 
         (Minutes)    (Seconds)    (Seconds)    (Seconds)   (Seconds)
 
+
+## Get Complete Project
+
+contact me -> **[hassansubhani822@gmail.com]**
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -180,6 +185,19 @@ Upload your data, have a conversation with your AI analyst, and receive professi
 ```bash
 git clone <repository-url>
 cd genai-data-analyst
+pip install -r requirements.txt
+
+## create the environment and activate:
+
+If any module error exist ("module not import")
+
+pip install module_name
+e.g("pip install numpy")
+
+
+
+
+
 
 
 
