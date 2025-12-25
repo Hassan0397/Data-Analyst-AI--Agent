@@ -1,4 +1,4 @@
-# GenAI Data Analyst 🤖📊
+# Data Analyst AI Agent 🤖📊
 
 An AI-powered data analysis platform built with Streamlit that automates the entire data analysis workflow from data cleaning to business insights generation. 
 
@@ -193,6 +193,7 @@ If any module error exist ("module not import")
 
 pip install module_name
 e.g("pip install numpy")
+
 
 
 
